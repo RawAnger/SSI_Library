@@ -1,6 +1,6 @@
 # SSI_Library
 ## SSI Library Components
-This project contains following fundamental SSI Library Components:
+This project contains the source code for following fundamental SSI Library Components:
 * AND Gate
 * OR Gate
 * NOR Gate
