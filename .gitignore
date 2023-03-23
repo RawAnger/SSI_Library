@@ -1,17 +1,8 @@
 # Vivado Verilog gitignore
 
 # Vivado project files
-*.cache
-*.data
 *.jou
 *.log
-*.runs
-*.sim
-*.srcs
-*.xdc
-*.zip
-*.html
-*.xml
 
 # Generated output files
 *.bit
